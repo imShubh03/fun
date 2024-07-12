@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Adventure",
+        "title": "An epic tale of exploration and discovery.",
+        "category": "Adventure",
+        "image": "images/Card1.jpg",
+        "price": 15.99
+    },
+    {
+        "id": 2,
+        "name": "Mystery of the Haunted House",
+        "title": "A thrilling mystery set in a haunted mansion.",
+        "category": "Mystery",
+        "image": "images/Card1.jpg",
+        "price": 12.99
+    },
+    {
+        "id": 3,
+        "name": "Love in Paris",
+        "title": "A romantic story set in the heart of Paris.",
+        "category": "Romance",
+        "image": "images/Card1.jpg",
+        "price": 0.00
+    },
+    {
+        "id": 4,
+        "name": "The Space Odyssey",
+        "title": "An interstellar journey through the cosmos.",
+        "category": "Science Fiction",
+        "image": "images/Card1.jpg",
+        "price": 19.99
+    },
+    {
+        "id": 5,
+        "name": "Cooking with Joy",
+        "title": "Delicious recipes for everyday cooking.",
+        "category": "free",
+        "image": "images/Card1.jpg",
+        "price": 0
+    },
+    {
+        "id": 6,
+        "name": "The Art of Meditation",
+        "title": "A guide to finding peace and tranquility.",
+        "category": "free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpgs",
+        "price": 0.00
+    },
+    {
+        "id": 7,
+        "name": "Historical Battles",
+        "title": "A detailed look at significant historical conflicts.",
+        "category": "free",
+        "image": "images/Card1.jpg",
+        "price": 14.99
+    },
+    {
+        "id": 8,
+        "name": "Wildlife Wonders",
+        "title": "A journey into the wild to explore amazing animals.",
+        "category": "Nature",
+        "image": "images/Card1.jpg",
+        "price": 17.99
+    },
+    {
+        "id": 9,
+        "name": "Fantasy Realms",
+        "title": "Enter a world of magic and mythical creatures.",
+        "category": "free",
+        "image": "images/Card1.jpg",
+        "price": 16.99
+    },
+    {
+        "id": 10,
+        "name": "Tech Innovations",
+        "title": "Exploring the latest advancements in technology.",
+        "category": "Technology",
+        "image": "images/Card1.jpg",
+        "price": 18.99
+    }
+]
